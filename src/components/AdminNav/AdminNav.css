@@ -1,0 +1,11 @@
+.admin-header{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 40%;
+}
+.admin-nav ul>li{
+    display: inline-flex;
+    margin-left: 2rem;
+}

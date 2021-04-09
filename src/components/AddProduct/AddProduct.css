@@ -1,0 +1,6 @@
+.admin-container{
+    text-align: center;
+}
+input[type="text"] {
+    width: 20rem;
+}

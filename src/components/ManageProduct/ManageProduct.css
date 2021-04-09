@@ -1,0 +1,8 @@
+.product-list{
+    width: 68%;
+    margin: 2rem auto;
+    border-radius: 15px;
+    padding: 0.5rem;
+    border: 1px solid grey;
+    box-shadow: 2px 1px 10px grey;
+}

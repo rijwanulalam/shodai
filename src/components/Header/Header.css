@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 40%;
+}
+.nav ul>li{
+    display: inline-flex;
+    margin-left: 2rem;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.makeStyles-margin-1.MuiButton-containedPrimary {
+    color: white;
+}
